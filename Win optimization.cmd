@@ -316,7 +316,7 @@ echo:
 echo:
 echo:       ______________________________________________________________
 echo:
-echo:                 ‚ë¡¥à¨â¥ ®¯â¨¬¨§ æ¨î:
+echo:                 Â‚Ã«Â¡Â¥Ã Â¨Ã¢Â¥ Â®Â¯Ã¢Â¨Â¬Â¨Â§Â Ã¦Â¨Ã®:
 echo:
 echo:             [1] HWID        ^|  Windows           ^|   Permanent
 echo:             [2] Ohook       ^|  Office            ^|   Permanent
@@ -332,7 +332,7 @@ echo:
 echo:             [4] Fix DISK       ^|  HDD/SSD        ^|   Permanent
 echo:       ______________________________________________________________
 echo:
-call :_color2 %_White% "          " %_Green% "‚¢¥¤¨â¥ ¯ã­ªâ ¬¥­î á ª« ¢¨ âãàë [1,2,3,4,0] :"
+call :_color2 %_White% "          " %_Green% "Â‚Â¢Â¥Â¤Â¨Ã¢Â¥ Â¯Ã£Â­ÂªÃ¢ Â¬Â¥Â­Ã® Ã¡ ÂªÂ«Â Â¢Â¨Â Ã¢Ã£Ã Ã« [1,2,3,4,0] :"
 choice /C:123456780 /N
 set _erl=%errorlevel%
 
@@ -3850,8 +3850,8 @@ echo Loading...
 echo ========================================
 echo ^|                                ^|   0 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 2 >nul
 cls
 echo Loading...
@@ -3864,122 +3864,122 @@ echo Loading...
 echo ========================================
 echo ^|####                            ^|  15 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|########                        ^|  30 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 2 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##########                      ^|  42 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##########                      ^|  45 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|############                    ^|  47 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##############                  ^|  50 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 2 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|################                ^|  52 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##################              ^|  53 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|####################            ^|  65 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 2 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|######################          ^|  70 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##########################      ^|  80 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|############################    ^|  89 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##############################  ^|  90 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 1 >nul
 cls
 echo Loading...
 echo ========================================
 echo ^|##############################  ^|  95 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 ping localhost -n 5 >nul
 cls
 echo Loading Complete...
 echo ========================================
 echo ^|################################^| 100 ^|
 echo ========================================
-echo ¥ §­ ¥èì £¤¥ ªã¯¨âì «¨æ¥­§¨®­­ë© ª«îç Windows ? 
-echo ¨è¨ ¬­¥ ¢ Telegram @sverhu_tut
+echo ÂÂ¥ Â§Â­Â Â¥Ã¨Ã¬ Â£Â¤Â¥ ÂªÃ£Â¯Â¨Ã¢Ã¬ Â«Â¨Ã¦Â¥Â­Â§Â¨Â®Â­Â­Ã«Â© ÂªÂ«Ã®Ã§ Windows ? 
+echo ÂÂ¨Ã¨Â¨ Â¬Â­Â¥ Â¢ Telegram @sverhu_tut
 echo OK!
-echo WYGJG-G9MBQ-GJQFM-WWH8X-8CJR4 >Š«îç_win_10.txt
+echo WYGJG-G9MBQ-GJQFM-WWH8X-8CJR4 >ÂŠÂ«Ã®Ã§_win_10.txt
 @exit /b
 
 :Begin
