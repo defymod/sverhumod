@@ -92,7 +92,7 @@ popd
 
 cls
 color 07
-title  Kot_mas 2.0
+title  Kot_mas
 
 set _args=
 set _elev=
@@ -308,7 +308,7 @@ timeout 3
 
 cls
 color 07
-title  Kot_mas 3.0
+title  Kot_mas
 mode 76, 30
 echo:
 echo:
