@@ -92,7 +92,7 @@ popd
 
 cls
 color 07
-title  Kot_mas 2.0
+title  Kot_mas 3.0
 
 set _args=
 set _elev=
