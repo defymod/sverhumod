@@ -308,7 +308,7 @@ timeout 3
 
 cls
 color 07
-title  Kot_mas 2.0
+title  Kot_mas 3.0
 mode 76, 30
 echo:
 echo:
